@@ -26,11 +26,3 @@ def min_heapify(A, i):
         min_heapify(A, smallest)
     
 
-print("Before heapify: ", A)
-
-n = int((len(A)//2)-1)
-for k in range(n, -1, -1):
-    min_heapify(A, k)
-
-print("After heapify: ", A)
-
