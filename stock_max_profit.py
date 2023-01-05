@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
 l = 0
 r = 1
 max_profit = 0

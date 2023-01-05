@@ -1,5 +1,3 @@
-# TODO: use pytest to assert input values
-
 input = "LVIII"
 input = "MCMXCIV"
 input = "D"

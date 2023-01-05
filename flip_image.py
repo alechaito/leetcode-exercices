@@ -1,5 +1,4 @@
 
-# https://leetcode.com/problems/flipping-an-image/description/
 image = [[1,1,0],[1,0,1],[0,0,0]]
 
 for row in image:
