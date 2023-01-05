@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
-
 words = ["abc","car","ada","racecar","cool"]
 
 def find_first_palindromic_in_array(words: list) -> str:
