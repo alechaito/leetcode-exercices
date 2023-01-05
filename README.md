@@ -15,7 +15,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Editar [x]
         * Excluir [x]
     * Two Pointers
-        * Find First Palindromic String in Array - Easy - T: O(n) - M: O (1) - [link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
+        * Easy - T: O(n) - M: O (1) - [Find First Palindromic String in Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
         * Editar [x]
         * Excluir [x]
         * Graficos dos Dados [x]
