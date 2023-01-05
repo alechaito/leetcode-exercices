@@ -1,7 +1,7 @@
 
 # LeetCode
 
-A collection of exercices solutions of leetcode.com and material to study data structures and algorithm.
+A collection of exercices solutions of leetcode.com and material to study data structures and algorithms.
 
 ### Goal
 
