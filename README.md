@@ -20,6 +20,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
     * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/description/)
         * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+        * Easy - T: O(n*m) - M: O (1) - [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 
 
 
