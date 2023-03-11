@@ -19,6 +19,8 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Easy - T: O(n) - M: O (1) - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
     * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/description/)
+        * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+
 
 
 
