@@ -15,6 +15,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
     * HashTables
         * Easy - T: O(n) - M: O (1) - [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
         * Medium - T: O(n*m) - M: O (1) - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+        * Medium - T: O(n) - M: O (1) - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
     * Two Pointers
         * Easy - T: O(n) - M: O (1) - [Find First Palindromic String in Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
         * Easy - T: O(n) - M: O (1) - [Flip Image](https://leetcode.com/problems/flipping-an-image/)
