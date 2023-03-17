@@ -21,6 +21,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Easy - T: O(n) - M: O (1) - [Flip Image](https://leetcode.com/problems/flipping-an-image/)
         * Easy - T: O(n) - M: O (1) - [Best Time to Sell And Buy Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
         * Easy - T: O(n) - M: O (1) - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+        * Medium - T: O(n**2) - M: O (1) - [3 Sum](https://leetcode.com/problems/3sum/)
     * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
         * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
