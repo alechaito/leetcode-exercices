@@ -19,10 +19,13 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
     * Two Pointers
         * Easy - T: O(n) - M: O (1) - [Find First Palindromic String in Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
         * Easy - T: O(n) - M: O (1) - [Flip Image](https://leetcode.com/problems/flipping-an-image/)
-        * Easy - T: O(n) - M: O (1) - [Best Time to Sell And Buy Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
         * Easy - T: O(n) - M: O (1) - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
         * Medium - T: O(n**2) - M: O (1) - [3 Sum](https://leetcode.com/problems/3sum/)
-    * Binary Tree
+        * Medium - T: O(n) - M: O (1) - [Container Max Water](https://leetcode.com/problems/container-with-most-water/)
+    * Sliding Windows
+        * Easy - T: O(n) - M: O (1) - [Best Time to Sell And Buy Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+        * Medium - T: O(n) - M: O (n) - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+    * Binry Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
         * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
         * Easy - T: O(n*m) - M: O (1) - [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
