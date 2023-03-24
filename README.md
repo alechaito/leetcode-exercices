@@ -29,6 +29,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Easy - T: O(n) - M: O (1) - [Best Time to Sell And Buy Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
         * Medium - T: O(n) - M: O (n) - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
         * Medium - T: O(n) - M: O (n) - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
+        * Hard - T: O(n) - M: O (n) - [Minimum Window Substr](https://leetcode.com/problems/minimum-window-substring)
 
     * Binry Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
