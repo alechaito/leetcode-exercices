@@ -32,9 +32,12 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Hard - T: O(n) - M: O (n) - [Minimum Window Substr](https://leetcode.com/problems/minimum-window-substring)
     
     * Stack
-        * Easy - T: O(n) - M: O (n) - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+        * Easy - T: O(n) - M: O (n) - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+    
+    * Binary Search
+        * Medium - T: O(log n) - M: O (1) - [Find Min](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
-    * Binry Tree
+    * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
         * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
         * Easy - T: O(n*m) - M: O (1) - [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
