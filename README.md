@@ -36,7 +36,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
     
     * Binary Search
         * Medium - T: O(log n) - M: O (1) - [Find Min](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-        * Medium - T: O(log n) - M: O (1) - [Find Min](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+        * Medium - T: O(log n) - M: O (1) - [Search in Rotated](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
     * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
