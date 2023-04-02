@@ -41,6 +41,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
     * Linked List
         * Easy - T: O(n) - M: O (1) - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
         * Medium - T: O(n) - M: O (1) - [Reorder List](https://leetcode.com/problems/reorder-list/)
+        * Medium - T: O(n) - M: O (1) - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 
     * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
