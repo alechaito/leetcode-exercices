@@ -38,6 +38,10 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Medium - T: O(log n) - M: O (1) - [Find Min](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
         * Medium - T: O(log n) - M: O (1) - [Search in Rotated](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
+    * Linked List
+        * Easy - T: O(n) - M: O (1) - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+        * Medium - T: O(n) - M: O (1) - [Reorder List](https://leetcode.com/problems/reorder-list/)
+
     * Binary Tree
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
         * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
