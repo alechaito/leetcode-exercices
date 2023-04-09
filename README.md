@@ -46,6 +46,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Hard - T: O(n.logn) - M: O (n) - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
     * Binary Tree
+        * Easy - T: O(n) - M: O (1) - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
         * Easy - T: O(n) - M: O (n) - [Path Sum](https://leetcode.com/problems/path-sum/)
         * Easy - T: O(n) - M: O (n) - [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
         * Easy - T: O(n*m) - M: O (1) - [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
