@@ -55,6 +55,7 @@ Learn more about data structures and algorithms. Improve our logical reasoning.
         * Easy - T: O(n*m) - M: O (1) - [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
         * Medium - T: O(n*m) - M: O (1) - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
         * Medium - T: O(n) - M: O (n) - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+        * Medium - T: O(n) - M: O (1) - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 
 
